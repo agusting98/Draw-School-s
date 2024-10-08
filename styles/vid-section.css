@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Bebas';
-    src: url("../assets/fonts/Bebas_Neue/BebasNeue-Regular.ttf"), format('truetype');
+    font-family: 'BaW';
+    src: url("../assets/fonts/BlackAndWhitePicture-Regular.ttf"), format('truetype');
 }
 
 @font-face {
@@ -11,11 +11,10 @@
 section{
     align-items: baseline;
     justify-content: center;
-    background-image: url('../assets/images/videos/backg.gif');
 }
 
 h1{
-    font-family: 'Bebas';
+    font-family: 'BaW';
     font-size: 50px;
     font-weight: 50;
     color: white;
@@ -24,17 +23,17 @@ h1{
 
 p{
     font-family: 'Oswald';
-    font-size: 15.6px;
+    font-size: 20px;
     font-weight: 50;
     color: white;
-    margin-top: -70px;
+    margin-top: -60px;
 }
 
 .panelvid{
     width: 300px;
     height: 300px;
     margin-top: -100px;
-    background-color: rgb(1, 1, 47);
+    background-color: rgb(178, 136, 0);
     border-radius: 20px;
 }
 
@@ -50,34 +49,34 @@ p{
     width: 80px;
     height: 80px;
     margin: 6px;
-    border-radius: 200px;
-    background-color: rgb(90, 9, 69);
+    border-radius: 20px;
+    background-color: rgb(114, 51, 0);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #ico1{
-    background-image: url('../assets/images/videos/guitar.png');
+    background-image: url('../assets/images/videos/pen.png');
 }
 
 #ico2{
-    background-image: url('../assets/images/videos/violin.png');
+    background-image: url('../assets/images/videos/aquarella.png');
 }
 
 #ico3{
-    background-image: url('../assets/images/videos/keys.png');
+    background-image: url('../assets/images/videos/crayon.png');
 }
 
 #ico4{
-    background-image: url('../assets/images/videos/trumpet.png');
+    background-image: url('../assets/images/videos/spray.png');
 }
 
 #ico5{
-    background-image: url('../assets/images/videos/microphone.png');
+    background-image: url('../assets/images/videos/smosh.png');
 }
 
 #ico6{
-    background-image: url('../assets/images/videos/percussion.png');
+    background-image: url('../assets/images/videos/print3d.png');
 }
 
 
